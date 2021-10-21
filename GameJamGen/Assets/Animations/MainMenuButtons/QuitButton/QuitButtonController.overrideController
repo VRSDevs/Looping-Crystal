@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: QuitButtonController
+  m_Controller: {fileID: 9100000, guid: a719974e6fd621845a7f50a93c5f25af, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: e8ab8c8ef491f594789dcf2f86409bb5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c0e6ba4a408f0c04fb8d5ce89aa24825, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9d529ee787addf342af51c049b3d82ac, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8192cab7a1152c44c8984b65d74f3960, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c30df8cb0a32a1044bf1f9aa0b9441a1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6d3589baa7c13834b9c10a2443962ba6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5cbbf49bc1ba19b438fcf36c58a0c707, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0c11d92997413304391834539a0466d4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c758555d3c80e91418afa9026edd6e59, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 82e2651d595dff44a906bfd0958e078a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3edec6d5d1a8e6c489ceb45dae19de6a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3edec6d5d1a8e6c489ceb45dae19de6a, type: 2}
